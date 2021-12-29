@@ -1,1 +1,0 @@
-@import url(//plusinsta.xyz/discord-plus/DiscordPlus-source.theme.css);

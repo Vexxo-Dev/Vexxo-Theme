@@ -8,7 +8,6 @@
  * @source https://github.com/Vexxo-Dev/Vexxo-Theme
  * @invite Ebw4K4B3se
 */
-@import url(//plusinsta.xyz/discord-plus/DiscordPlus-source.theme.css);
 
 
 /* I've commented most of these values so you can change them yourself.
@@ -28,7 +27,7 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 /* Background image. Falls back to accent color if invalid.
    To use an image on your computer, send it anywhere on Discord,
    then right-click and Copy Link, then paste it between the ()'s'. */
---dplus-background: url(https://lh3.googleusercontent.com/6fNyLwq2Ie5dHBwb1PrOaisMhlxjXD9hUMLTQ5bIW11_OZr7yff892X_siRAI_b2sqE-5MlKyk1MPVtehU-Y_fg=w16383);
+--dplus-background: url(https://lh6.googleusercontent.com/VSDbuAVAnXEx_N9SgWLR5CqYKlbJ_4sgrZFlS5KKSFGWg2h52EGFnUEU_ywNVFjKHJLQ84WbhhmrfN-yzcppxKY=w16383);
 
 /* Accent color, used to decorate the UI with colors. */
 --dplus-accent-ui: #00b7ff73;
